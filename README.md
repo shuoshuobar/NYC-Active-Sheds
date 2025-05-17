@@ -26,4 +26,4 @@ Analyze and visualize the distribution of sidewalk sheds across New York City an
 5. HTML: Webpage design
 
 ## Limitation/Looking Ahead:
-1. Thinking about how to automatically track the number of active sidewalk sheds along with time
+1. Thinking about how to build an automatic tracker of the number of active sidewalk sheds along with time
